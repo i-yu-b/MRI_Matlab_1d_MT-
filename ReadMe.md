@@ -1,0 +1,1 @@
+## This is a set of different .m files that can be used to perform Magnetization Transfer (MT) analysis for 1d spectroscopic data with MT Henkelman approach (based on paper Henkelman et. al 1993 in "JMR in Medicine") and MT Inversion-Recovery approach (based on paper Gochberg et. al 2003 in "JMR in Medicine").
